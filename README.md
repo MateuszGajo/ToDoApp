@@ -3,8 +3,11 @@
 ## Demo
 https://todo-32d5c.firebaseapp.com/
 
-Application to create tasks that we have to do
+TODO application
 
-## Library 
-Redux
+## Technologies
+html
+css
+react
+redux
 
